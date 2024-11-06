@@ -24,8 +24,8 @@ Um aplicativo web de gerenciamento de tarefas construído com Django, permitindo
 
 ## Requisitos
 
-- Python 3.x
-- Django 3.x
+- Python 3.12.3
+- Django 5.1.3
 - Ambiente virtual (venv)
 
 ## Instalação
